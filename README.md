@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**coorasse/coorasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alessandro Rodi, I live in Zürich 🇨🇭 where I own [Renuo AG](https://renuo.ch) together with [Samuel Steiner](https://www.renuo.ch/en/team/samuel-steiner) and [Josua Schmid](https://www.renuo.ch/en/team/josua-schmid).
 
-Here are some ideas to get you started:
+At Renuo I work as a Software Developer and my main expertise is on Ruby On Rails at the moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a past as Java developer, but these days are gone.
+
+I actively contribute/maintain Open Source projects like [CanCanCan](https://github.com/CanCanCommunity/cancancan).
+
+Please consider Sponsoring if you use these Open Source projects: https://github.com/sponsors/coorasse
+
+And follow me on https://dev.to/coorasse!
