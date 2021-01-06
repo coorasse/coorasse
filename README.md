@@ -10,4 +10,6 @@ I actively contribute/maintain Open Source projects like [CanCanCan](https://git
 
 Please consider Sponsoring if you use these Open Source projects: https://github.com/sponsors/coorasse
 
-And follow me on https://dev.to/coorasse!
+And follow me on https://dev.to/coorasse or [Twitter](https://twitter.com/coorasse)!
+
+
