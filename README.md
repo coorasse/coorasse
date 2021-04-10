@@ -2,6 +2,8 @@
 
 I am Alessandro Rodi, Italian, class 1986, father-of-one.
 
+I got my Bachelor Degree in Computer Science in Bologna, in Italy, where I also worked for six years as a Software Developer and Architect.
+
 I live in Zürich (🇨🇭) where I currently work at [Renuo AG](https://renuo.ch).
 
 Since 2016 I am also Partner of the company, together with [Samuel Steiner](https://github.com/samuelsteiner) and [Josua Schmid](https://github.com/schmijos).
