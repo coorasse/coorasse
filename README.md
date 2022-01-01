@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I am Alessandro Rodi, Italian, class 1986, father-of-one.
+I am Alessandro Rodi, Italian, class 1986, father-of-two.
 
 I got my Bachelor Degree in Computer Science in Bologna, in Italy, where I also worked for six years as a Software Developer and Architect.
 
